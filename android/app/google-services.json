@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056629998937",
+    "project_id": "pydaily-d97ca",
+    "storage_bucket": "pydaily-d97ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056629998937:android:b5c774d9c41b607f5db848",
+        "android_client_info": {
+          "package_name": "com.example.quiz_proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkuPQvs4c7PlZ1BxO-0vj5olJksxiCjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
